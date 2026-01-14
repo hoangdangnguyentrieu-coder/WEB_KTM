@@ -4,6 +4,7 @@ body {
     color: #333;
 }
 
+/* Phần Banner và Cards [cite: 11, 24] */
 .banner {
     background: url('2dagl4i7dgxa1.jpg') no-repeat center center/cover;
     height: 450px;
@@ -37,6 +38,7 @@ body {
 .bg-green { background: #28a745; }
 .bg-orange { background: #ffc107; }
 
+/* Phần Basic Elements [cite: 18, 19, 24] */
 .basic-elements {
     padding: 50px 10%;
     background: #fff;
@@ -51,6 +53,7 @@ body {
     margin: 20px 0;
 }
 
+/* Các kiểu nút bấm [cite: 19, 20, 21] */
 .btn {
     border: none;
     padding: 10px 20px;
@@ -67,7 +70,8 @@ body {
 .btn-rounded { background: #17a2b8; color: white; border-radius: 25px; }
 .btn-icon { background: #007bff; color: white; display: flex; align-items: center; gap: 5px; }
 .btn-simple { background: transparent; border: 1px solid #ccc; }
-            
+
+/* Phần Links */
 .link { text-decoration: none; font-size: 14px; font-weight: bold; }
 .link.blue { color: #007bff; }
 .link.gray { color: #6c757d; }
